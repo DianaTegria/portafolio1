@@ -1,0 +1,4 @@
+<?php
+require '../contacto.php';
+
+?>
